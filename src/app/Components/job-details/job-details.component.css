@@ -1,0 +1,30 @@
+svg {
+    height: 35px;
+    width: 35px;
+    cursor:pointer;
+    padding-top: 30px;
+    color:rgba(215, 17, 37, 0.871);
+}
+
+.btn{
+  position: relative;
+  bottom: 10px;
+  background-color: black;
+  color: whitesmoke;  
+  
+}
+
+img {
+    width: 120px;
+    height: 120px;
+  }
+
+  .spn{
+    display: inline-block;
+    color: white;
+    padding: 10px 20px;
+    font-family: Arial;
+    border-radius: 25px;
+    background-color: #8321f3;
+    margin-top: 8px;
+}
